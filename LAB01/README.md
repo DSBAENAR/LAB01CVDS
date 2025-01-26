@@ -14,6 +14,7 @@ Prueba de conflicto Intellij
 
 # CAMBIO ( CREACION PULL REQUEST)
 
+
 # Preguntas y Respuetas
 ## Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje” PARTE I
 - git add
