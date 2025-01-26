@@ -13,7 +13,7 @@ Prueba de conflicto Intellij
 
  
 # Preguntas y Respuetas
-* Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”
+## Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”
 - git add
 
     Este comando se usa para añadir cambios (archivos modificados, nuevos archivos o archivos
