@@ -34,3 +34,8 @@ Es una solicitud para integrar los cambios de una rama a otra en un repositorio 
 * Revisar los cambios antes de integrarlos.
 * Discutir el código con el equipo.
 * Detectar errores o inconsistencias mediante revisiones y pruebas.
+
+
+# INTEGRANTES
+# - Sebastian Beltran
+# - Salomon
