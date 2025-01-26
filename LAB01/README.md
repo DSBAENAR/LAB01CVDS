@@ -23,3 +23,14 @@ Prueba de conflicto Intellij
 
     Una vez que se han añadido los cambios, el comando git commit se usa para guardar esos cambios en el
     historial de Git, creando un cambio con un mensaje que describe la modificacion o eliminacion realizada. 
+
+## ¿Hay una mejor forma de trabajar con git para no tener conflictos?
+- Se podría crear ramas especificas para cada característica o tarea del proyecto
+- Evitar trabajarr en ramas importantes o principales como main o develop, estas ramas se deberían usar ya cuando el proyecto está estable o se mande a producción.
+- Realizar PR (Pull Request) para revisar el código antes de que se una con la rama principal.
+## ¿Qué es y como funciona el Pull Request?
+Es una solicitud para integrar los cambios de una rama a otra en un repositorio Git. Permite:
+
+* Revisar los cambios antes de integrarlos.
+* Discutir el código con el equipo.
+* Detectar errores o inconsistencias mediante revisiones y pruebas.
