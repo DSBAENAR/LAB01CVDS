@@ -11,7 +11,9 @@ Error 2
 Prueba de conflicto Intellij 
 >>>>>>> d86c111a3467f3492aff30b518ec86831b8b9340
 
- 
+
+# CAMBIO ( CREACION PULL REQUEST)
+
 # Preguntas y Respuetas
 ## Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje” PARTE I
 - git add
