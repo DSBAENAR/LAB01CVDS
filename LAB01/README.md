@@ -13,9 +13,11 @@ Prueba de conflicto Intellij
 
 
 # CAMBIO ( CREACION PULL REQUEST)
-
-## Respuesta pull Request Sebastian Beltran
-# Remaster 
+<<<<<<< HEAD
+# Creacion de prueba pull request - Salomon
+=======
+# Respuesta pull request - Sebastian Beltran
+>>>>>>> Salomon
 
 # Preguntas y Respuetas
 ## Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje” PARTE I
