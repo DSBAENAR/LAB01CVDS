@@ -16,7 +16,11 @@ Prueba de conflicto Intellij
 <<<<<<< HEAD
 # Creacion de prueba pull request - Salomon
 =======
+<<<<<<< HEAD
 # Creacion pull request - Salomon Baena
+=======
+# Respuesta pull request - Sebastian Beltran
+>>>>>>> sebastian
 >>>>>>> Salomon
 
 # Preguntas y Respuetas
