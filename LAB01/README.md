@@ -82,6 +82,10 @@ ESCUELA COLOMBIANA DE INGENIERÍA - CICLOS DE VIDA DE DESARROLLO DE SOFTWARE
 
 [![Imagen-de-Whats-App-2025-01-26-a-las-21-11-00-533ebee0.jpg](https://i.postimg.cc/6QrrDg2c/Imagen-de-Whats-App-2025-01-26-a-las-21-11-00-533ebee0.jpg)](https://postimg.cc/xkdNmsPN)
 
+[![Screenshot-2025-01-29-at-22-34-31.png](https://i.postimg.cc/mk9THzfy/Screenshot-2025-01-29-at-22-34-31.png)](https://postimg.cc/D42VVzzS)
+
+[![Screenshot-2025-01-29-at-22-38-10.png](https://i.postimg.cc/Yq1p2Wxp/Screenshot-2025-01-29-at-22-38-10.png)](https://postimg.cc/PP5G2Ncc)
+
 # INTEGRANTES
 - Juan Sebastian Beltran
 - David Salomon Baena
